@@ -1,0 +1,6 @@
+this is a test file to add the data to a text file.
+Adding multiple lines of data at a time using vim.
+Trying to close this vim editor by saving the data entered.
+sdhji
+hello all y this is not working fine
+hello

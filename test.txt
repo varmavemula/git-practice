@@ -3,4 +3,6 @@ Adding multiple lines of data at a time using vim.
 Trying to close this vim editor by saving the data entered.
 sdhji
 hello all y this is not working fine
-hello
+hell
+this is new line to track the git diff functionality.
+so this will help to understand diff and difftool differently.

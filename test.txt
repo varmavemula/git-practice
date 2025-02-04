@@ -5,4 +5,6 @@ sdhji
 hello all y this is not working fine
 hell
 this is new line to track the git diff functionality.
-so this will help to understand diff and difftool differently.
+so this will help to understand diff and difftool differently
+again testing diff to check between git repo and working directory
+
